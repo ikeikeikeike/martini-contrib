@@ -3,7 +3,7 @@ package html
 import (
 	"net/http"
 
-	dichttp "github.com/ikeikeikeike/godic/modules/http"
+	dichttp "github.com/ikeikeikeike/gopkg/http"
 	woothee "github.com/woothee/woothee-go"
 )
 
